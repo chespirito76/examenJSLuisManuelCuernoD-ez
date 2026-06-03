@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(89, 148, 25);
+}
+
+
+.contenedor {
+
+    text-align: center;
+    font-size: xx-large;
+    color: aqua;
+    padding: 50px;
+}
+
+.botones {
+
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+
+}
+
+
+#resultado {
+    text-align: center;
+    font-family: fantasy;
+    font-size: xx-large;
+    color: rgb(148, 72, 72);
+}
+
+button {
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(226, 67, 43);
+    background-color: black;
+
+}
