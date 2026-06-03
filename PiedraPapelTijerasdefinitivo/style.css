@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(89, 148, 25);
+}
+
+.contenedor {
+    text-align: center;
+    font-size: xx-large;
+    color: aqua;
+    padding: 50px;
+}
+
+.botones {
+    text-align: center;
+    padding: 20px;
+}
+
+#resultado {
+    text-align: center;
+    font-family: fantasy;
+    font-size: xx-large;
+    color: rgb(148, 72, 72);
+}
+
+button {
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(12, 102, 34);
+    background-color: black;
+    margin: 5px;
+}
+
+#marcador {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+}
